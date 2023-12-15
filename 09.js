@@ -35,7 +35,7 @@ function filtrar(funcion) {
   }
   return resultado;
  };
-};//asdsadasdg
+};
 
 // No modifiques nada debajo de esta linea //
 
